@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cb1659fa0522f8542b6db0c249d3e728
+timeCreated: 1685435336
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AaJianHaoTi
+  fontNames:
+  - AaJianHaoTi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
